@@ -1,0 +1,23 @@
+body{
+    background-color:lightgray;
+    margin: 20px;
+    padding: 20px;
+}
+h1 {
+    background-color: black;
+    color:rebeccapurple;
+}
+h2{
+    background-color: black;
+    color:darkgreen
+
+}
+p {
+    background-color: beige;
+}
+a:visited{
+    color:aqua;
+}
+a:hover{
+    color:rgb(255, 0, 0);
+}
